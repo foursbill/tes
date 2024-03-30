@@ -1,8 +1,8 @@
 {
   "name": "xcez Bot-Md",
   "version": "11.0.0",
-  "description": "whatsapp tob with multi device.",
-  "main": "juna.js",
+  "description": "whatsapp bot with multi device.",
+  "main": "xcez.js",
   "directories": {
     "lib": "lib"
   },
